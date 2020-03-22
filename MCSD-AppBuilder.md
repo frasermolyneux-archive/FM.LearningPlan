@@ -6,13 +6,10 @@ I have been working towards this goal for a while and making good progress. I on
 
 To achieve the goal:
 
-* [Exam 70-487: Developing Microsoft Azure and Web Services](https://www.microsoft.com/en-us/learning/exam-70-487.aspx)
-  * Accessing Data (20-25%)
-  * Querying and Manipulating Data by Using the Entity Framework (20-25%)
-  * Creating and Consuming Web API-based services (20-25%)
-  * Designing and Implementing Web Services (15-20%)
-  * Deploying Web Applications and Services (15-20%)
-
-I already have the MCSA: Web Applications below.
+* [Exam 70-487: Developing Microsoft Azure and Web Services](https://www.microsoft.com/en-us/learning/exam-70-487.aspx) - ACHIEVED
 
 * [MCSA: Web Applications](https://www.microsoft.com/en-us/learning/mcsa-web-applications-certification.aspx) - ACHIEVED
+
+## Summary
+
+I have now completed the exams required for this certification. In all honesty the `Developing Microsoft Azure and Web Services` exam was straightforward and I did little revision. If you are doing something every day anyway then you already know it, however this was a good way of confirming that to myself and showing good understanding.
